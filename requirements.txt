@@ -1,0 +1,8 @@
+gdown
+git+https://github.com/openai/CLIP.git
+torch==2.0.1
+accelerate
+peft
+diffusers
+transformers
+rembg
